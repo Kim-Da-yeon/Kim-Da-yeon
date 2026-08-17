@@ -21,9 +21,9 @@
 ## 무엇을 하는 사람인지
 
 베이지안 계산과 텍스트 모델링 사이에서 일합니다. 어려운 사후분포의 모드에 **실제로
-도달하는 표집기**를 설계하고, **데이터가 생성된 방식을 반영하는 구조**의 모델을 만듭니다.
+도달하는 샘플러**를 설계하고, **데이터가 생성된 방식을 반영하는 구조**의 모델을 만듭니다.
 
-- **Stochastic-gradient MCMC** — SGLD · SGHMC와 적응적 가중 변형. 미니배치 gradient 표집이 적응적 최적화기를 언제 이기고 언제 못 이기는지를 통제된 환경과 실데이터 양쪽에서 확인해 왔습니다.
+- **Stochastic-gradient MCMC** — SGLD · SGHMC와 적응적 가중 변형. 미니배치 gradient 샘플링이 적응적 최적화기를 언제 이기고 언제 못 이기는지를 통제된 환경과 실데이터 양쪽에서 확인해 왔습니다.
 - **순차적 토픽 모델** — 문서를 교환 가능한 토픽 주머니가 아니라 문장 간 전이 네트워크로 모델링합니다. 이상반응 보고서나 사고 서술문처럼 문서 자체가 인과 사슬로 읽히는 데이터에서 의미가 있습니다.
 - **LLM 데이터를 정직하게 평가하기** — LLM 생성 데이터가 실제로 무엇에 쓸 만한지에 관심이 있습니다. 표준 정규화가 상호운용성은 크게 올리지만 추천 정확도에는 유의한 변화를 주지 않았다는 결과를, 양쪽 다 보고했습니다.
 
@@ -51,7 +51,7 @@
 | 저장소 | 한 줄 |
 |---|---|
 | [**llmrec-metadata-standard**](https://github.com/Kim-Da-yeon/llmrec-metadata-standard) | LLM 생성 메타데이터의 ISO 3166-1 / BCP 47 정규화. 한 국가가 1,166개 표면형으로 흩어진 것을 57개 표준 코드로 통합해 상호운용성 0 → **80.3%**. 추천 정확도에는 유의한 변화 없음도 함께 보고 |
-| [**GCIoU-SGMCMC-3D-Detection**](https://github.com/Kim-Da-yeon/GCIoU-SGMCMC-3D-Detection) | SGLD·SGHMC·SGNHT를 Adam과 동일한 GCIoU 손실 아래 비교. 학습 손실이 가장 낮은 표집기가 검출 성능은 최고가 아니었고, 모멘텀 유무가 성능을 갈랐습니다 |
+| [**GCIoU-SGMCMC-3D-Detection**](https://github.com/Kim-Da-yeon/GCIoU-SGMCMC-3D-Detection) | SGLD·SGHMC·SGNHT를 Adam과 동일한 GCIoU 손실 아래 비교. 학습 손실이 가장 낮은 샘플러가 검출 성능은 최고가 아니었고, 모멘텀 유무가 성능을 갈랐습니다 |
 | [**SONY_Chatbot**](https://github.com/Kim-Da-yeon/SONY_Chatbot) | 제품 설명서 대상 한국어 RAG. bge-m3 + Chroma 검색에 **페이지 단위 출처**를 붙여 답변 근거를 특정 페이지까지 되짚습니다 |
 | [**mcmc-r-packages**](https://github.com/Kim-Da-yeon/mcmc-r-packages) | 확률적 근사 몬테카를로를 순수 R · C/Rcpp · Python/reticulate 세 백엔드로 각각 R 패키지화 |
 | [**Pykachu-Volleyball**](https://github.com/Kim-Da-yeon/Pykachu-Volleyball) | gymnasium 환경 표 기반 Q-learning. 희소 보상을 밀집 보상으로 재설계 |
