@@ -4,7 +4,7 @@
 
 고려대학교 빅데이터사이언스학부 본전공 / 자율주행시스템학과 융합전공 · 2025.02. 졸업
 
-[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf) · dayun0405@korea.ac.kr
+[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf?v=20260819) · dayun0405@korea.ac.kr
 
 ---
 
@@ -44,7 +44,7 @@
 | [llmrec-metadata-standard](https://github.com/Kim-Da-yeon/llmrec-metadata-standard) | LLM 생성 메타데이터의 ISO 3166-1 · BCP 47 정규화 | 표준 적합률 0.484 → 0.914, 추천 정확도는 유의차 없음 |
 | [GCIoU-SGMCMC-3D-Detection](https://github.com/Kim-Da-yeon/GCIoU-SGMCMC-3D-Detection) | 최적화기 5종을 동일 GCIoU 손실에서 비교 | 손실 순위와 검출 성능 순위 불일치 |
 | [SONY_Chatbot](https://github.com/Kim-Da-yeon/SONY_Chatbot) | 제품 설명서 한국어 RAG · bge-m3 + Chroma | 페이지 단위 출처 표기 |
-| [mcmc-r-packages](https://github.com/Kim-Da-yeon/mcmc-r-packages) | SAMC를 R · C/Rcpp · Python 세 백엔드로 구현 | R 패키지 3종 |
+| [mcmc-r-packages](https://github.com/Kim-Da-yeon/mcmc-r-packages) | 제공된 SAMC 알고리즘 코드의 R 패키지화 (Rcpp · reticulate 연결) | 설치 가능한 R 패키지 3종 |
 | [Pykachu-Volleyball](https://github.com/Kim-Da-yeon/Pykachu-Volleyball) | gymnasium 환경 표 기반 Q-learning | 희소 보상 → 밀집 보상 재설계 |
 | `bntm-topic-model` | 문장 토픽 전이 네트워크 모델 · 석사 학위논문 | 심사 중 비공개 |
 
