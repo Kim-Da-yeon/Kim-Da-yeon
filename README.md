@@ -8,14 +8,24 @@
 
 ---
 
-### 논문
+### 학술지 게재
 
 | 논문 | 게재 |
 |---|---|
 | AWSGLD를 이용한 전이 네트워크 토픽 모델 추론 | 한국자료분석학회지 28(1) 109–121 · 제1저자 · 2026 |
 | 자율주행 도메인에서 LoRA 기반 sLLM 파인튜닝 | 한국자료분석학회지 27(3) 769–780 · 제1저자 · 2025 |
-| Fixed-K Shrinkage BNTM with AWSGLD Inference | 한국자료분석학회 하계학술발표대회 포스터논문 장려상 · 2026 |
-| Fixed-K Shrinkage BNTM with AWSGHMC Inference | SCI급 학술지 투고 중 · 석사 학위논문 |
+
+### 투고 중
+
+| 논문 | 상태 |
+|---|---|
+| Fixed-K Shrinkage BNTM with AWSGHMC Inference | SCI급 학술지 투고 중 · 제1저자 · 석사 학위논문 |
+
+### 학술발표
+
+| 발표 | 학술대회 |
+|---|---|
+| Fixed-K Shrinkage BNTM with AWSGLD Inference | 한국자료분석학회 하계학술발표대회 포스터 발표 (초록) · 포스터논문 부문 장려상 · 2026 |
 
 ### 참여 연구
 
