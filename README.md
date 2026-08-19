@@ -4,7 +4,7 @@
 
 고려대학교 빅데이터사이언스학부 본전공 / 자율주행시스템학과 융합전공 · 2025.02. 졸업
 
-[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf?v=20260819) · dayun0405@korea.ac.kr
+[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf?v=20260819) · [경력기술서 PDF](https://kim-da-yeon.github.io/career.pdf?v=20260819) · dayun0405@korea.ac.kr
 
 ---
 
