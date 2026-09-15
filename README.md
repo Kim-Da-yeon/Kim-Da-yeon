@@ -58,3 +58,4 @@
 | 머신러닝 · 딥러닝 | PyTorch · TensorFlow · Transformers (LoRA/QLoRA) |
 | 확률적 추론 | SGLD · SGHMC · SGNHT · AWSGLD · AWSGHMC |
 | 환경 · 자격 | Git · CUDA · ADsP |
+
