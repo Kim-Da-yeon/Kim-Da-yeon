@@ -47,8 +47,8 @@
 | [SONY_Chatbot](https://github.com/Kim-Da-yeon/SONY_Chatbot) | 제품 설명서 한국어 RAG · bge-m3 + Chroma | 페이지 단위 출처 표기 |
 | [mcmc-r-packages](https://github.com/Kim-Da-yeon/mcmc-r-packages) | 제공된 SAMC 알고리즘 코드의 R 패키지화 (Rcpp · reticulate 연결) | 설치 가능한 R 패키지 3종 |
 | [Pykachu-Volleyball](https://github.com/Kim-Da-yeon/Pykachu-Volleyball) | gymnasium 환경 표 기반 Q-learning | 희소 보상 → 밀집 보상 재설계 |
-| `bntm-topic-model` | 문장 토픽 전이 네트워크 모델 · 석사 학위논문 | 심사 중 비공개 |
-| `tntm-embedded-growth` | 연도별 토픽 전이 네트워크로 임베디드 기술의 성장 예측 · 논문 초록·미국 특허 | 투고 준비 중 비공개 |
+| `bntm-topic-model` | 문장 토픽 전이 네트워크 모델 | 투고 예정 · 비공개 |
+| `tntm-embedded-growth` | 연도별 토픽 전이 네트워크로 임베디드 기술의 성장 예측 · 논문 초록·미국 특허 | 투고 예정 · 비공개 |
 
 ### 도구
 
