@@ -4,7 +4,7 @@
 
 고려대학교 빅데이터사이언스학부 본전공 / 자율주행시스템학과 융합전공 · 2025.02. 졸업
 
-[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf?v=20260819) · [경력기술서 PDF](https://kim-da-yeon.github.io/career.pdf?v=20260819) · dayun0405@korea.ac.kr
+[포트폴리오](https://kim-da-yeon.github.io/) · [이력서 PDF](https://kim-da-yeon.github.io/resume.pdf?v=20261106) · [경력기술서 PDF](https://kim-da-yeon.github.io/career.pdf?v=20261106) · dayun0405@korea.ac.kr
 
 ---
 
@@ -20,7 +20,7 @@
 | 논문 | 상태 |
 |---|---|
 | Fixed-K Shrinkage BNTM with AWSGHMC Inference | SCI급 학술지 투고 예정 · 제1저자 |
-| 전이 네트워크 토픽모델을 이용한 임베디드 기술 부상 예측 | 학술지 투고 예정 · 제1저자 |
+| 전이 네트워크 토픽 모델을 이용한 임베디드 기술의 성장 예측 | 학술지 투고 예정 · 제1저자 |
 
 ### 참여 연구
 
@@ -34,7 +34,7 @@
 
 | 연도 | 수상 | 내용 |
 |---|---|---|
-| 2026 | 한국자료분석학회 하계학술발표대회 포스터논문 부문 장려상 | Fixed-K Shrinkage BNTM with AWSGLD Inference · 포스터 발표 (초록) |
+| 2026 | 한국자료분석학회 하계학술발표대회 포스터논문 부문 장려상 | Fixed-K Shrinkage BNTM Inference with AWSGLD · 포스터 발표 (초록) |
 | 2023 | 고려대학교 빅데이터사이언스학부 통계학술제 최우수상 | 택시 수요 군집 분석 |
 | 2023 | 미래모빌리티 및 세종지역혁신 아이디어 공모전 장려상 | 친환경 스마트 정류소 |
 
@@ -42,6 +42,8 @@
 
 | 저장소 | 내용 | 결과 |
 |---|---|---|
+| [sajangnim-biseo](https://github.com/Kim-Da-yeon/sajangnim-biseo) | 사장님 비서: 에이전트 12개 · RDF 온톨로지 · 규칙 판정기로 소상공인 지원사업 공고 조건과 근거 문구 제시 · 팀 3명 · Vercel 배포 담당 · [배포 사이트](https://sajangnim-biseo.vercel.app/) | 가상 사례 30건 정답 일치 27/30, 근거 인용 오류 0건 · 2026 하반기 AI 경진대회 출품(결과 대기) |
+| `piston-store` | BATON: 체대입시 용품 멀티 쇼핑몰(본사몰 · 학원별 몰 · 원장 콘솔 · 관리자) · Next.js 14 · Supabase · Claude Code 활용 · 1인 · [배포 사이트](https://piston-store.vercel.app/) | 페이지 55개 · RLS 정책 49개 · Vercel 배포(정식 도메인 연결 예정) · 비공개 |
 | [llmrec-metadata-standard](https://github.com/Kim-Da-yeon/llmrec-metadata-standard) | LLM 생성 메타데이터의 ISO 3166-1 · BCP 47 정규화 | 표준 적합률 0.484 → 0.914, 추천 정확도는 유의차 없음 |
 | [GCIoU-SGMCMC-3D-Detection](https://github.com/Kim-Da-yeon/GCIoU-SGMCMC-3D-Detection) | 최적화기 5종을 동일 GCIoU 손실에서 비교 | 손실 순위와 검출 성능 순위 불일치 |
 | [SONY_Chatbot](https://github.com/Kim-Da-yeon/SONY_Chatbot) | 제품 설명서 한국어 RAG · bge-m3 + Chroma | 페이지 단위 출처 표기 |
